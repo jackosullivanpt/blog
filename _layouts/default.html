@@ -5,13 +5,31 @@
 
   <body>
 
+    {{ site.address }}
+
     {% include header.html %}
+
 
     <div class="page-content">
       <div class="wrapper">
+
+
+  <div class="row">
+  <div class="col-xs-12">
+      <div class="col-xs-2"></div>
+      <div class="col-xs-8">
         {{ content }}
       </div>
+    <div class="col-xs-2"></div>
+
+
     </div>
+    </div>
+  </div>
+</div>
+
+
+
 
     {% include footer.html %}
 
