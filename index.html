@@ -4,20 +4,44 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Home</h1>
+  <div class="panel panel-info">
+    <div class="panel-heading">
+      <h2 class="panel-title">Welcome</h2>
+    </div>
+    <div class="panel-body">
+      Thank you for visiting Jack O'Sullivan Personal Training.
+    </div>
+  </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3">
+      <div class="thumbnail">
+        <img src="https://36.media.tumblr.com/db6b9cb197d7df19162202acee6b169a/tumblr_nu017keed51rm54z2o1_250.png">
+        <div class="caption">
+          <h3>Free Group Training</h3>
+          <p>It's always good to try before you buy and I am so confident that you will
+          have a good time, a fun experience and learn lots with me, I am offering you the chance to try out a free session.
+        </p>
+          <p><a href="#" class="btn btn-default" role="button">Read More</a></p>
+        </div>
+      </div>
+    </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <div class="col-sm-3">
+      <div class="thumbnail">
+        <img src="https://41.media.tumblr.com/5a295753d2b9b95c15a6aa2518b15fdb/tumblr_ntzzcilOwD1rm54z2o1_540.png">
+        <div class="caption">
+          <h3>New Location</h3>
+          <p>Winter time is coming, and although it is fun to train outside I feel it is best for everyone to be dry and warm during the winter.
+          That's why I have partnered with Sanders School in Hornchurch to keep your training going through the winter months.</p>
+          <p><a href="#" class="btn btn-default" role="button">Read More</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
 
+</div>
 
 
 </div>
