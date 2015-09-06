@@ -1,34 +1,63 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" type="text/css" href="css/mainblog.scss">
 
-<div class="blog">
+  <div class="blog">
 
-  <h1 class="page-heading">My Blog</h1>
+<div class="container">
+  <div class="row">
+  <div class="col-sm-9">
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <center><h2 class="panel-title">My Blog</h2><center>
+  </div>
+  <div class="panel-body">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <ul class="post-list">
+        {% for post in site.posts %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+          <li style="list-style-type: none;">
 
-        <p>Tags:
-    <a href="#"><span class="label label-info">Snipp</span></a>
-	<a href="#"><span class="label label-info">Bootstrap</span></a>
-	<a href="#"><span class="label label-info">UI</span></a>
-	<a href="#"><span class="label label-info">growth</span></a>
-	| <i class="icon-user"></i> <a href="#">Admin</a>
-	| <i class="icon-calendar"></i> Sept 16th, 2012 at 4:20 pm
- 	| <i class="icon-comment"></i> <a href="#">3 Comments</a>
-   	| <i class="icon-share"></i> <a href="#">39 Shares</a>
-</p>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="container">
+
+  <div class="col-sm-2 pull-left">
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.img }} </a>
+  </div>
 
 
 
+<div class="col-sm-6">
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+
+    <p>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.intro }}</a>
+    </p>
+
+            <p>Tags:
+        <a href="{{ post.url | prepend: site.baseurl }}"><span class="label label-info">{{ post.categories }}</span></a>
+    	| <i class="icon-user"></i> Written by: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.admin }}</a>
+    	| <i class="icon-calendar"></i> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+     	| <i class="icon-comment"></i> <a href="#">3 Comments</a>
+
+    </p>
+</div>
+</div>
+          </li>
+        {% endfor %}
+      </ul>
+
+
+
+    </div>
+</div>
+</div>
+<div class="col-lg-3">
+    <a class="twitter-timeline" href="https://twitter.com/josullivanpt" data-widget-id="640142731499712512">Tweets by @josullivanpt</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div>
+</div>
 </div>
