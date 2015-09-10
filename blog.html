@@ -33,7 +33,7 @@ layout: default
             </h2>
 
     <p>
-        <a {{ post.intro }}</a>
+        <a class="post-link" {{ post.url | prepend: site.baseurl }}>{{ post.intro }}</a>
     </p>
 
             <p>Tags:
