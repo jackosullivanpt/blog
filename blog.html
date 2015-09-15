@@ -36,11 +36,11 @@ layout: default
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.intro }}</a>
     </p>
 
-            <p>Tags:
+            <p>
         <a href="{{ post.url | prepend: site.baseurl }}"><span class="label label-info">{{ post.categories }}</span></a>
     	| <i class="icon-user"></i> Written by: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.admin }}</a>
     	| <i class="icon-calendar"></i> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-     	| <i class="icon-comment"></i> <a href="#">3 Comments</a>
+     	
 
     </p>
 </div>
