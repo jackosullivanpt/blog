@@ -22,7 +22,7 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
             For example have you ever been stuck in doors all day? How did you feel? Not great, right. It's because humans
             were built for locomotion. We are designed to move, it's in our genes and that is why I am so passionate about 
             helping and motivating people to move.</p>
-            <p> More on movement and many other subjects (as outlined above to come). I hope you enjoy the content and if you
+            <p> More on movement and many other subjects, as outlined above to come. I hope you enjoy the content and if you
             have any health or fitness related questions feel free to send me a message (info@jackosullivanpt.co.uk) and I
             will answer it for you. </p>
             
