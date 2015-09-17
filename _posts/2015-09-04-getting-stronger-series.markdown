@@ -9,6 +9,7 @@ img: <center> <img class="img-responsive" src="https://36.media.tumblr.com/db6b9
 ---
 
 <br>
+
 <div class="col-md-11">
 <h3> What is the getting stronger series all about? </h3>
 
