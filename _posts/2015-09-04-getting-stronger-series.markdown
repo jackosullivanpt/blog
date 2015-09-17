@@ -11,6 +11,7 @@ img: <center> <img class="img-responsive" src="https://36.media.tumblr.com/db6b9
 <br>
 
 <div class="col-md-11">
+
 <h3> What is the getting stronger series all about? </h3>
 
 <p><b> My plan is to start recording my journey to becoming fitter and stronger. A lot of people find it difficult to get bigger, stronger, leaner, and fitter so I have decided to put my results online. I will be exerimenting with diffirent training programs and I am hoping this will help motivate people to continue training. </b></p>
