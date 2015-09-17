@@ -9,10 +9,11 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
 ---
 
 <br>
-<p> Welcome to my new blog. </p>
+
 
 
 <div class="col-lg-11">
+            <p> Welcome to my new blog. </p>
             <p><b> The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Recipes, Fat Loss, Lean Muscle Gain, Mobility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness Tips.
             </b></p> <!-- End intro -->
             <p> The blog has been designed for me to write about topics that I am studying, and I have decided to post                   everything online for you all to enjoy and read to give to help you achieve your goals or improve your knowledge.             My main goal is to get more people moving. </p>
