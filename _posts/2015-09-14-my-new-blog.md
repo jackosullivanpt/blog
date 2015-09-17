@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My new blog"
-date:   2015-09-14
+date:   2015-09-17
 categories: 
 admin: Jack O'Sullivan
 intro: Welcome to my new website. The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Fat Loss, Lean Muscle Gain, Flexibility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness Tips.
@@ -14,8 +14,21 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
 
 
 <div class="col-md-8">
-            <div class="vid">
-                <iframe width="560" height="315" src="//www.youtube.com/embed/HxUOYZ2JIpU" allowfullscreen=""></iframe>
-            </div> <!--./vid -->
+            <p><b> Welcome to my new website. The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Recipes, Fat Loss, Lean Muscle Gain, Flexibility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness Tips.
+            </b></p> <!-- intro -->
+            <p> The blog has been designed for me to write about topics that I am studying, and I have decided to post                   everything online for you all to enjoy and read to give to help you achieve your goals or improve your knowledge.             My main goal is to get more people moving. </p>
+            <p><i> Movement is life. If you not moving, you're probably sleeping, in a coma, or dead!</i></p>
+            <p>Once we start to move we release endomorphins (feel good hormones) and we start to feel better in ourselves. 
+            For example have you ever been stuck in doors all day? How did you feel? Not great, right. It's because humans
+            were built for locomotion. We are designed to move, it's in our genes and that is why I am so passionate about 
+            helping and motivating people to move.</p>
+            <p> More on movement and many other subjects (as outlined above to come). I hope you enjoy the content and if you
+            have any health or fitness related questions feel free to send me a message (info@jackosullivanpt.co.uk) and I
+            will answer it for you. </p>
+            
+            <p> Committed to your success,</p>
+            
+            <p><b>Jack O'Sullivan PT</b></p>
+            
  
         </div> <!--.col -->
