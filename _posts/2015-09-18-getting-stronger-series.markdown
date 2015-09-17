@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Stronger Series!"
-date:   2015-09-04
+date:   2015-09-18
 categories: Getting Stronger Series
 admin: Jack O'Sullivan
 intro: My plan is to start recording my journey to becoming fitter and stronger. A lot of people find it difficult to get bigger, stronger, leaner, and fitter so I have decided to put my results online. I will be exerimenting with diffirent training programs and I am hoping this will help motivate people to continue training.
