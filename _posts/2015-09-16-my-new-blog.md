@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My new blog"
-date:   2015-09-17
+date:   2015-09-16
 categories: 
 admin: Jack O'Sullivan
 intro: Welcome to my new website. The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Fat Loss, Lean Muscle Gain, Flexibility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness Tips.
