@@ -23,12 +23,7 @@ What also didn’t help was the crappy articles written by people who didn’t k
 <p>So follow me on my journey and if you have any questions that you would like answered, send an email to info@jackosullivanpt.co.uk.</p>
 <br>
 <p>Committed to your success,</p>
-<p>Jack O’Sullivan PT</p>
+<p>Jack O’Sullivan PT</p> 
 
 
-
-            <div class="vid">
-                <iframe width="560" height="315" src="//www.youtube.com/embed/HxUOYZ2JIpU" allowfullscreen=""></iframe>
-            </div><!--./vid -->
-
-        </div><!--.col -->
+        </div> <!--.col -->
