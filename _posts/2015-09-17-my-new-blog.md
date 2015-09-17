@@ -25,7 +25,7 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
             <p> More on movement and many other subjects, as outlined above to come. I hope you enjoy the content and if you
             have any health or fitness related questions feel free to send me a message (info@jackosullivanpt.co.uk) and I
             will answer it for you. </p>
-            
+            <br>
             <p>Committed to your success,</p>
             
             <p><b>Jack O'Sullivan PT</b></p>
