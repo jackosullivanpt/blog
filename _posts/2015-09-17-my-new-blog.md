@@ -26,7 +26,7 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
             have any health or fitness related questions feel free to send me a message (info@jackosullivanpt.co.uk) and I
             will answer it for you. </p>
             
-            <p> Committed to your success,</p>
+            <p>Committed to your success,</p>
             
             <p><b>Jack O'Sullivan PT</b></p>
             
