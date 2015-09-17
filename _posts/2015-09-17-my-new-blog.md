@@ -8,7 +8,6 @@ intro: Welcome to my new website. The new blog will cover lots of topics such as
 img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca35f24a5dc315633a824565dc3042/tumblr_nupryoNJLU1rm54z2o1_400.png"></center>
 ---
 
-<h3> My New Blog </h3>
 
 <p> Welcome to my new blog. </p>
 
