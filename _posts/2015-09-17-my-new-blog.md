@@ -19,7 +19,7 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
             </b></p> <!-- End intro -->
             
             <div><img src="https://41.media.tumblr.com/e58321a2cfaa675282868d87efa29292/tumblr_nu0oq1FuOh1rm54z2o1_1280.jpg"
-            class="img-rounded" width="550" height="160">
+            class="img-rounded" width="600" height="160">
             </div>
             <br>
             <p> The blog has been designed for me to write about topics that I am studying, and I have decided to post                   everything online for you all to enjoy and read to give to help you achieve your goals or improve your knowledge.             My main goal is to get more people moving. </p>
