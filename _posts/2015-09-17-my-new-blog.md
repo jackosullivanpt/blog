@@ -13,9 +13,14 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
 
 
 <div class="col-lg-11">
-            <p> Welcome to my new blog. </p>
-            <p><b> The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Recipes, Fat Loss, Lean Muscle Gain, Mobility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness Tips.
+            <h4> Welcome to my new blog. </h4>
+            <p><b> The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Recipes, Fat Loss,               Lean Muscle Gain, Mobility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness
+            Tips.
             </b></p> <!-- End intro -->
+            
+            <div img="https://41.media.tumblr.com/e58321a2cfaa675282868d87efa29292/tumblr_nu0oq1FuOh1rm54z2o1_1280.jpg">
+            </div>  
+            
             <p> The blog has been designed for me to write about topics that I am studying, and I have decided to post                   everything online for you all to enjoy and read to give to help you achieve your goals or improve your knowledge.             My main goal is to get more people moving. </p>
             <p><i> 'Movement is life. If you not moving, you're probably sleeping, in a coma, or dead!'</i></p>
             <p>Once we start to move we release endomorphins (feel good hormones) and we start to feel better in ourselves. 
