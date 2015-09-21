@@ -5,7 +5,7 @@ date:   2015-09-16
 categories: fat loss, lean muscle gain
 admin: Jack O'Sullivan
 intro: As humans we require a certain amount of energy to function properly, without any movement. Basal metabolic rate (BMR) is the basic amount of energy your body needs at rest.
-img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca35f24a5dc315633a824565dc3042/tumblr_nupryoNJLU1rm54z2o1_400.png"></center>
+img: <center> <img class="img-responsive" src="https://40.media.tumblr.com/e000f486d8ebd303ba54d42b53088dcd/tumblr_nv0xg5Q9u11rm54z2o1_1280.jpg"></center>
 ---
 
 <br>
