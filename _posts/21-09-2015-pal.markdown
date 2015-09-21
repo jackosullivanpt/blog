@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My new blog"
-date:   2015-09-16
-categories: fat loss, lean muscle gain
+title:  "PAL Factor"
+date:   2015-09-21
+categories: fat loss - lean muscle gain
 admin: Jack O'Sullivan
 intro: As humans we require a certain amount of energy to function properly, without any movement. Basal metabolic rate (BMR) is the basic amount of energy your body needs at rest.
 img: <center> <img class="img-responsive" src="https://40.media.tumblr.com/e000f486d8ebd303ba54d42b53088dcd/tumblr_nv0xg5Q9u11rm54z2o1_1280.jpg"></center>
@@ -47,5 +47,11 @@ To increase lean mass eat slightly more calories than your BMR.
 Remember it is important to include the PAL factor and be honest with yourself when it comes to how active you are.
 You may need to slightly adjust calories up or down until you are on track towards your goals.
 Please do not dramatically increase or decrease calorie consumption as this can lead to rapid weight gain or weight loss. It is not healthly to do this so im not advising it. Easy does it now, you will benefit greater from a slighter increase or decrease in calories. I will be writing posts on 'crash diets' and 'yo-yo dieting' within the next few weeks.
-If you have any questions, please feel free to leave a comment below.
+
+If you have any questions, please feel free to contact me.
+
 I hope this helps you towards your goals.
+
+Committed to your success,
+
+Jack O'Sullivan PT
