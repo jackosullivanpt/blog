@@ -7,6 +7,16 @@ layout: default
 <div class="home">
 	
 <script>
+  (function() {
+  var interakt = document.createElement('script');
+  interakt.type = 'text/javascript'; interakt.async = true;
+  interakt.src = "//cdn.interakt.co/interakt/c9bcfe60bf71bc722520d83fb8c5f57c.js";
+  var scrpt = document.getElementsByTagName('script')[0];
+  scrpt.parentNode.insertBefore(interakt, scrpt);
+  })()
+</script>
+	
+<script>
 	window.mySettings = {
 	// TODO: The current logged in user's email address.
 	email: 'abc@example.com',
