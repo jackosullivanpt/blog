@@ -1,23 +1,25 @@
 ---
 layout: default
 ---
-<script>
-	window.mySettings = {
-	// TODO: The current logged in user's email address.
-	email: '<%= current_user.email %>',
-	// TODO: The current logged in user's sign-up date in Unix epoch time.
-	created_at: <%= current_user.created_at.to_i %>,
-	app_id: 'c9bcfe60bf71bc722520d83fb8c5f57c',
-	// Sending Custom Hash with unique_id
-	purchase : {
-	unique_id : <%= current_user.purchase.id %>, //required for custom hashes otherwise the custom data is rejected // Unique String or Integer
-	order_id : <%= current_user.purchase.order.id %>
-	}
-	};
-</script>
+
 
 
 <div class="home">
+	
+<script>
+	window.mySettings = {
+	// TODO: The current logged in user's email address.
+	email: 'abc@example.com',
+	// TODO: The current logged in user's sign-up date in Unix epoch time.
+	created_at: 1356978600,
+	app_id: 'c9bcfe60bf71bc722520d83fb8c5f57c',
+	// Sending Custom Hash with unique_id
+	purchase : {
+	unique_id : 127, //required for custom hashes otherwise the custom data is rejected // Unique String or Integer
+	order_id : 30222
+	}
+	};
+</script>
 
   <div class="container">
 
