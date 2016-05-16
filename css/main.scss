@@ -71,6 +71,10 @@ footer {background-color:#000080;
 .panel-heading-contact
 {margin-top: 20px;
   }
+  
+.panel-default > .panel-heading-custom {
+    background: #000080; color: #fff;
+}
 
 /* Blog Page */
 
