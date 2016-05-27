@@ -31,9 +31,10 @@ nav.navbar-findcond ul.dropdown-menu > li > a:hover { background: #000080; color
 nav.navbar-findcond span.badge { background: #000080; font-weight: normal; font-size: 11px; margin: 0 4px; }
 nav.navbar-findcond span.badge.new { background: rgba(255, 0, 0, 0.8); color: #fff; }
 
-#ptminder-client-login input[type="submit"]{ background-color: #000080 !important; }
+#ptminder-client-login input[type="submit"]{ background-color: #000080 !important; line-height: 1.0; }
 #ptminder-client-login { color: #fff; }
 #ptminder-client-login { line-height: 0.1; }
+
 
 footer {background-color:#000080;
         border-radius: 0px}
