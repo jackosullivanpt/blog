@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "My new blog"
-date:   2015-09-16
+date:   2017-02-20
 categories: 
 admin: Jack O'Sullivan
-intro: Welcome to my new website. The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Fat Loss, Lean Muscle Gain, Flexibility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness Tips.
+intro: Welcome to my new blog all about people, travels and wellbeing. 
 img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca35f24a5dc315633a824565dc3042/tumblr_nupryoNJLU1rm54z2o1_400.png"></center>
 ---
 
@@ -33,9 +33,9 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
             have any health or fitness related questions feel free to send me a message (info@jackosullivanpt.co.uk) and I
             will answer it for you. </p>
             <br>
-            <p>Committed to your success,</p>
+            <p>One Love,</p>
             
-            <p><b>Jack O'Sullivan PT</b></p>
+            <p><b>Jack</b></p>
             
  
         </div> <!--.col -->
