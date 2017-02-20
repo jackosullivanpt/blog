@@ -43,8 +43,62 @@ layout: default
         </div>
       </div>
     </div>
-  
-  
+
+	  
+<!-- NEW CODE FOR BLOG POST -->
+	  
+<div class="container">
+  <div class="row">
+  <div class="col-sm-9">
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <center><h2 class="panel-title">My Blog</h2><center>
+  </div>
+  <div class="panel-body">
+
+     <ul class="post-list">
+        {% for post in site.posts %}
+
+          <li style="list-style-type: none;">
+
+<div class="container">
+ 
+
+  <div class="col-lg-2 pull-left">
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.img }} </a>
+ </div>
+
+
+
+<div class="col-lg-6">
+            <h2 class="blog-title">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+
+    <p class="blog-intro">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.intro }}</a>
+    </p>
+
+            <p>
+        <a href="{{ post.url | prepend: site.baseurl }}"><span class="label label-info">{{ post.categories }}</span></a>
+    	| <i class="icon-user"></i> Written by: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.admin }}</a>
+    	| <i class="icon-calendar"></i> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+     	
+
+    </p>
+</div>
+</div>
+          </li>
+        {% endfor %}
+      </ul>
+
+
+
+    </div>
+</div>
+</div>
+
+<!-- END CODE FOR BLOG POSTS -->
    
   
 
