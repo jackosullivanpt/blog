@@ -14,8 +14,7 @@ img: <center> <img class="img-responsive" src="https://41.media.tumblr.com/6aca3
 
 <div class="col-lg-11">
             <h4> Welcome to my new blog. </h4>
-            <p><b> The new blog will cover lots of topics such as 30 Day Fitness Challenges, Nutrition, Recipes, Fat Loss,               Lean Muscle Gain, Mobility, Anatomy and Physiology, Strength and Conditioning, Posture Correction and Fitness
-            Tips.
+            <p><b> This blog is all about the people I meet on my travels to places far and wide. I will also be writing about the journeys I go on and how to keep fit on the road. 
             </b></p> <!-- End intro -->
             
             <div><img src="https://41.media.tumblr.com/e58321a2cfaa675282868d87efa29292/tumblr_nu0oq1FuOh1rm54z2o1_1280.jpg"
