@@ -1,0 +1,39 @@
+<div class="home">
+
+
+<div class="container">
+  <div class="row">
+
+    <br>
+    
+    
+ 
+  <div><img src="intro.png"
+                                                            class="img-rounded"
+                                                           style="width:1030px;height:320px;">
+  
+  <div><img src="online training.png"
+                                                            class="img-rounded"
+                                                           style="width:1030px;height:320px;">
+    
+  <div><img src="nutrition.jpg"
+                                                            class="img-rounded"
+                                                           style="width:1030px;height:320px;">
+    
+  <div><img src="support.jpg"
+                                                            class="img-rounded"
+                                                           style="width:1030px;height:320px;">
+
+
+   
+</div>
+
+</div>
+
+
+
+
+</div>
+
+
+</div>
